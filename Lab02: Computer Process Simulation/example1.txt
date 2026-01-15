@@ -1,0 +1,6 @@
+START main
+CALL function1
+CALL function2
+RETURN
+RETURN
+RETURN

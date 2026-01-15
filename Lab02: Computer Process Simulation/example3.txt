@@ -1,0 +1,6 @@
+START main
+CALL helper yes
+CALL utility no
+RETURN
+RETURN
+RETURN

@@ -1,0 +1,9 @@
+START main
+CALL funcA yes
+CALL funcB no
+CALL funcC yes
+RAISE
+RETURN
+RETURN
+RETURN
+RETURN
