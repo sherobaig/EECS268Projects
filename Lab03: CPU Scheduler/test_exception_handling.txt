@@ -1,0 +1,7 @@
+START ProcessA
+CALL handler yes
+CALL normal_func no
+RAISE
+RETURN
+RETURN
+RETURN

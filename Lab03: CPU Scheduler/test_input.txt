@@ -1,0 +1,10 @@
+START ProcessA
+START ProcessB
+CALL function1 yes
+CALL function2 no
+RETURN
+CALL function3 yes
+RAISE
+RETURN
+RETURN
+RETURN
