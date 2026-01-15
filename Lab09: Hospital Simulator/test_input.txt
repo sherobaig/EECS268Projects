@@ -1,0 +1,20 @@
+ARRIVE John Smith 45 Fever 3
+ARRIVE Jane Doe 30 BrokenArm 5
+ARRIVE Bob Johnson 60 ChestPain 8
+COUNT
+NEXT
+ARRIVE Alice Brown 25 Headache 2
+ARRIVE Charlie Wilson 50 HeartAttack 10
+COUNT
+NEXT
+TREAT
+COUNT
+NEXT
+TREAT
+TREAT
+COUNT
+NEXT
+TREAT
+TREAT
+COUNT
+NEXT
